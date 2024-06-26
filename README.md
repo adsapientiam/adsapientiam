@@ -36,8 +36,7 @@
   <a target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-plain-wordmark.svg" alt="html" width="40" height="40"/> 
   </a> 
-</p>
-
+  
   <a target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-plain-wordmark.svg" alt="css" width="40" height="40"/> 
   </a> 
@@ -49,6 +48,8 @@
   <a target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
+</p>
+
 </p>
 
 <p>
