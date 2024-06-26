@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laafayeette&label=Profile%20views&color=0e75b6&style=flat" alt="adsapientiam" /> </p>
 
-- 🌱 I’m currently learning about advanced Algorithms and Datastructures
+- 🌱 I’m currently most notably learning about advanced Algorithms and Datastructures
 - 💬 Gladly ask me about the instrumentality of information technology in establishing a sustainable society!
 - ⚡ "Every addition to true knowledge is an addition to human power." - Horace Mann 
 
