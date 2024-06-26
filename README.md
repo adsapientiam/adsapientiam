@@ -26,7 +26,7 @@
   </a> 
 
   <a href="https://www.python.org/psf-landing/" target="_blank" rel="noreferrer"> 
-    <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="python" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
